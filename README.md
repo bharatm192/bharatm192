@@ -7,4 +7,5 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 - 👀 I’m interested in Learning Gitops,Azure,Docker,Terraform,Kubernetes,Ansible,Puppet.
 
 ### 💬 Ask me about
-src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a>
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a>
