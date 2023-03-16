@@ -32,6 +32,5 @@ Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong 
 <!--<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
 <a title="ArgoCD" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"></a>-->
 <a title="Linux" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
-<a title="Bash" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></a>
 <a title="Jenkins" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a>
 <a title="Ansible" href="https://medium.com/devops-mojo/tagged/ansible"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
