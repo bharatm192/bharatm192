@@ -6,4 +6,6 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 - 🏆 AWS Solution Architect - Associate | Azure Fundamentals AZ-900 
 - 👀 I’m interested in Learning Gitops,Azure,Docker,Terraform,Kubernetes,Ansible,Puppet.
 
+### 💬 Ask me about
 
+- "AWS"
