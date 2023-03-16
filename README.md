@@ -18,4 +18,4 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
 
 ### 🎖️ Certifications
-<a title="AWS Certified Solutions Architect – Associate"<img height="60" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></a>
+<a title="AWS Certified Solutions Architect – Associate" </a>
