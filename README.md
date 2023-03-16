@@ -18,4 +18,5 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 <img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
 
 ### 🎖️ Certifications
-<a title="AWS Certified Solutions Architect – Associate" </a>
+- AWS Certified Solutions Architect – Associate
+- Azure Fundamentals AZ-900
