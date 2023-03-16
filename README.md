@@ -21,9 +21,3 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 - AWS Certified Solutions Architect – Associate
 - Azure Fundamentals AZ-900
 
-<!DOCTYPE html>
-<html>
-<body style="background-color:khaki;">
-   <h1>HTML Articles</h1>
-</body>
-</html>
