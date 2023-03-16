@@ -26,11 +26,11 @@ Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong 
 
 ### 💬 Ask me about
 
-<a title="AWS" ></a>
-<a title="Azure" ></a>
-<a title="Terraform" ></a>
-<!--<a title="Docker" ></a>
-<a title="ArgoCD" ></a>-->
-<a title="Linux" ></a>
-<a title="Jenkins" ></a>
-<a title="Ansible" ></a>
+<a title="AWS">
+<a title="Azure">
+<a title="Terraform">
+<!--<a title="Docker">
+<a title="ArgoCD">
+<a title="Linux">
+<a title="Jenkins">
+<a title="Ansible">
