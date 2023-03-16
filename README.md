@@ -20,3 +20,5 @@ I am energetic and geek who loves his job. I live and breathe all the technologi
 ### 🎖️ Certifications
 - AWS Certified Solutions Architect – Associate
 - Azure Fundamentals AZ-900
+
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
