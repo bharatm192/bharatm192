@@ -26,11 +26,11 @@ Ashish is a Technology Architect in the Cloud and DevOps space. He has a strong 
 
 ### 💬 Ask me about
 
-<a title="AWS" href="https://medium.com/awesome-cloud"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a>
-<a title="Azure" href="https://medium.com/awesome-azure"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a>
-<a title="Terraform" href="https://medium.com/devops-mojo/tagged/terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
-<!--<a title="Docker" href="https://medium.com/devops-mojo/tagged/docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
-<a title="ArgoCD" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"></a>-->
-<a title="Linux" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
-<a title="Jenkins" href="https://medium.com/devops-mojo"><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a>
-<a title="Ansible" href="https://medium.com/devops-mojo/tagged/ansible"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
+<a title="AWS" ></a>
+<a title="Azure" ></a>
+<a title="Terraform" ></a>
+<!--<a title="Docker" ></a>
+<a title="ArgoCD" ></a>-->
+<a title="Linux" ></a>
+<a title="Jenkins" ></a>
+<a title="Ansible" ></a>
